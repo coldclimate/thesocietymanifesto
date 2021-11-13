@@ -7,7 +7,7 @@ Thus, I suggest...
 
 ## Living and working in their constituency
 
-MPs maintain constituency offices and only constituency offices.  All funding (staff etc) must be spent in the constituency.
+MPs maintain constituency offices and only constituency offices.  All funding (staff etc) must be spent in the constituency and no family or friends should be employed.
 
 MPs must live in the constituency.  This is most easily achieved if that is where they are already based there.
 
