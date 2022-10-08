@@ -1,0 +1,18 @@
+name: master_push
+on:
+  push:
+    branches:
+      - 'main'
+jobs:
+  build_test_deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v1
+        with:
+          aws-access-key-id: ${{ secrets.DOGFOOD_KEY }}
+          aws-secret-access-key: ${{ secrets.DOGFOOD_SECRET }}
+          aws-region: eu-west-1
+      - name: Copy files to the test website with the AWS CLI
+        run: |
+            aws s3 sync ./output/ s3://www.the-dog-food-manifesto.co.uk --acl public-read --delete
