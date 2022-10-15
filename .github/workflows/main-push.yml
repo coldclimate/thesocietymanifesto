@@ -10,6 +10,7 @@ jobs:
       - uses: actions/checkout@v1
       - name: Compile MD and replace in index
         run: |
+            sudo apt-get install markdown -y
             markdown the-dog-food-manifesto.md | tee rendered.snippet
             sed -i "s/##REPLACE##/$(sed 's:/:\\/:g' rendered.snippet)/" output/index.html
 
