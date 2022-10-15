@@ -13,6 +13,10 @@ jobs:
             sudo apt-get install markdown -y
             markdown the-dog-food-manifesto.md | tee rendered.snippet
             sed -i -e "/##REPLACE##/{r rendered.snippet" -e "d}" output/index.html
+      - name: add reference
+        run: |
+            export VERSION=$(git rev-parse --short HEAD)
+            sed -i "s/##VERSION##/$VERSION/" output/index.html
 
       - name: Configure AWS credentials
         uses: aws-actions/configure-aws-credentials@v1
