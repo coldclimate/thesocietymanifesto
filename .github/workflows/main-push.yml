@@ -16,7 +16,7 @@ jobs:
       - name: add reference
         run: |
             export VERSION=$(git rev-parse --short HEAD)
-            sed -i "s/##VERSION##/$VERSION/" output/index.html
+            sed -i "s/##VERSION##/$VERSION/g" output/index.html
 
       - name: Configure AWS credentials
         uses: aws-actions/configure-aws-credentials@v1
