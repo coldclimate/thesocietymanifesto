@@ -8,6 +8,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
+      - name: Compile MD and replace in index
+        run: |
+            apt install markdown -y
+            markdown the-dog-food-manifesto.md | tee rendered.html
+            sed -i "s/##REPLACE##/$(sed 's:/:\\/:g' renderer.html)/" output/index.html
+
       - name: Configure AWS credentials
         uses: aws-actions/configure-aws-credentials@v1
         with:
