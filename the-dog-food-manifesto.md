@@ -34,7 +34,7 @@ Being an MP is a difficult job and requires a high degree of skill and dedicatio
 
 ## Outbound communication through official channels
 
-Should MPs want to make and publish public statements these should be made through official channels, and not directly to a subset of newspapers, especially those who'd content it behind a paywall.  Fair and easy access should apply to all public communication.
+Should MPs want to make and publish public statements these should be made through official channels, and not directly to a subset of newspapers, especially those who's content it behind a paywall.  Fair and easy access should apply to all public communication.
 
 ## Quarterly drug testing
 
