@@ -39,3 +39,7 @@ Should MPs want to make and publish public statements these should be made throu
 ## Quarterly drug testing
 
 Randomised hair and urine drugs testing to be undertaken at least four times a year.  Those who make our drugs laws should be upheld by those laws.
+
+# Who has pledged so far?
+
+Nobody yet, but as MPs and candidates do, I'll list them here.  To pledge they need to link to this website from their own.
