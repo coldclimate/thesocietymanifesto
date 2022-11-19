@@ -26,5 +26,5 @@ jobs:
           aws-region: eu-west-1
       - name: Copy files to the test website with the AWS CLI
         run: |
-            aws s3 sync ./output/ s3://www.the-dog-food-manifesto.co.uk --acl public-read --delete
-            aws cloudfront create-invalidation --distribution-id E35UKAJAPF09UT  --paths "/*"
+            aws s3 sync ./output/ s3://www.thesocietymanifesto.co.uk --delete
+            aws cloudfront create-invalidation --distribution-id E1C2HIP2W20GSA  --paths "/*"
