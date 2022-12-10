@@ -25,7 +25,7 @@ If MPs are being paid, directly or indirectly, by 3rd parties, they are not putt
 
 MPs should publish their tax returns to show this. When they leave office they should publish their returns for the next five years so make sure that there is no temptation for delayed returns.
 
-## £180k a year, tracking minimum wage.
+## £120k a year, tracking minimum wage.
 
 Being an MP is a difficult job and requires a high degree of skill and dedication. We should recognise this and pay them as well (better maybe) as they would be in other jobs which they might be suitable for. Pay should track the minimum wage, thus remaining comparable over time.
 
