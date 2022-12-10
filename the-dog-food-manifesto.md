@@ -25,7 +25,7 @@ If MPs are being paid, directly or indirectly, by 3rd parties, they are not putt
 
 MPs should publish their tax returns to show this. When they leave office they should publish their returns for the next five years so make sure that there is no temptation for delayed returns.
 
-## £180k a year, tracking minimum wage.
+## £120k a year, tracking minimum wage.
 
 Being an MP is a difficult job and requires a high degree of skill and dedication. We should recognise this and pay them as well (better maybe) as they would be in other jobs which they might be suitable for. Pay should track the minimum wage, thus remaining comparable over time.
 
@@ -42,12 +42,6 @@ Travel costs and accommodation expenses will be paid, including rental propertie
 When MPs publish articles in specific newspapers, sometimes behind paywall, they are not on any official record, and not everybody can access them.
 
 Should MPs want to make and publish public statements these should be made through official channels.  Fair and easy access should apply to all public communication.
-
-## Quarterly drug testing
-
-Those who make the laws about what is legally acceptable should be held to that standard. 
-
-Quarterly, but not on a published schedule, MPs should undertake hair and urine drug testing.
 
 # Who has pledged so far?
 
