@@ -43,12 +43,6 @@ When MPs publish articles in specific newspapers, sometimes behind paywall, they
 
 Should MPs want to make and publish public statements these should be made through official channels.  Fair and easy access should apply to all public communication.
 
-## Quarterly drug testing
-
-Those who make the laws about what is legally acceptable should be held to that standard. 
-
-Quarterly, but not on a published schedule, MPs should undertake hair and urine drug testing.
-
 # Who has pledged so far?
 
 Nobody yet, but as MPs and candidates do, I'll list them here.  To pledge they need to link to this website from their own.
