@@ -7,7 +7,7 @@ My hope is UK politicians pledge to live and work in a way that reinforces a pos
 
 ## No private health insurance
 
-The NHS is key to British society and was founded on three principals 
+The NHS is key to British society and was founded on three principles 
 
 * That it meet the needs of everyone
 * That it be free at the point of delivery
