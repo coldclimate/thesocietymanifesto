@@ -2,7 +2,9 @@
 
 I believe that our ruling bodies should govern for the good of the masses and that the only way that can happen successfully is if they have to rely on the services that make up our society. This means that how our elected MPs work, live and are paid needs to change, they need to have to rely on the services that they are there to improve for the rest of us.
 
-My hope is UK politicians pledge to live and work in a way that reinforces a positive feedback loop.
+Many MPs cite [The 7 Principals Of Pubic Life](https://www.gov.uk/government/publications/the-7-principles-of-public-life/the-7-principles-of-public-life--2), often refereed to as the [Nolan principals](https://en.wikipedia.org/wiki/Committee_on_Standards_in_Public_Life) and The Society Manifesto aims to align with these principals, making them real. [Selflessness](https://www.gov.uk/government/publications/the-7-principles-of-public-life/the-7-principles-of-public-life--2#selflessness), [Integrity](https://www.gov.uk/government/publications/the-7-principles-of-public-life/the-7-principles-of-public-life--2#integrity), [Objectivity](https://www.gov.uk/government/publications/the-7-principles-of-public-life/the-7-principles-of-public-life--2#objectivity), [Accountability](https://www.gov.uk/government/publications/the-7-principles-of-public-life/the-7-principles-of-public-life--2#accountability), [Openness](https://www.gov.uk/government/publications/the-7-principles-of-public-life/the-7-principles-of-public-life--2#openness), [Honesty](https://www.gov.uk/government/publications/the-7-principles-of-public-life/the-7-principles-of-public-life--2#honesty) and [Leadership](https://www.gov.uk/government/publications/the-7-principles-of-public-life/the-7-principles-of-public-life--2#leadership)
+
+My hope is UK politicians pledge to live and work in a way that creates and reinforces a positive feedback loop.  Leadership comes from living your principals, not saying you do.
 
 
 ## No private health insurance
